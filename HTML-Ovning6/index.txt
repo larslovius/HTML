@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<title>Push for Film "Old"</title>
+</head>
+<body>
+<h1> <img src="https://statiskt.filmbladet.se/bilder/c3d/d2cb36ce2cccca4f629a000cb064dd4637103194.jpg" alt=""> O L D - när DÖDEN hinner i fatt... R I P
+</h1>
+<p>Filmen "Old" är en gastkramande thriller med premiär 23 juli, regisserad av M. Night Shyamalan. 
+    I huvudrollerna ser vi Gael García Bernal, Thomasin McKenzie och Eliza Scanlen.</p>
+<p>Onskans strand där livet bokstavligen passerar revy- </p>
+<p>
+    <iframe width="952" height="400" src="https://www.youtube.com/embed/A4U2pMRV9_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p><a href="https://youtu.be/s8xXNxBdhj8">En lägre trailer</a><br/>
+<a href="https://filmbladet.se/filmer/old-2021">Lite mer information om filmen</a></p>
+<p></p><br><br>
+<footer>  Webmaster Lars Lovius på uppdrag av Filmbolaget FS </footer>
+</body>
+</html>
