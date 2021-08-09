@@ -1,0 +1,13 @@
+Ditt kaffe är vårt kall!
+Personlig service dygnet runt - ingen vet bättre än vi smärtan av att inte få sitt kaffe när det är dags!
+För dig som kan unna dig...
+
+Vi är ett ungt dynamiskt gäng baristas och kaffeälskare som vill erbjuda dig underbara fikastunder framöver under parollen endat det bästa är gott nog. I vårt sällskap behöver du aldrig lida av att inte kunna fika när andan faller på. Spontant kanske du tycker att priserna är höga men vi profiler oss inte mot den stora allmänheten - vår målgrupp är du som vill ha det bästa och de mesta av din fikastund och slippa frustrustionen när den uteblir. När du köper någon av våra optimerade maskiner ingår detta:
+
+Personlig service dygnet run!(1)
+Max en timmes leveranstid om mixen av de bästa bönorna plötsligt är slut.(2)
+
+    <hr>
+    <div class = "myDiv bg-primary">Hello Bootstrap</div>
+    <div class = "myDiv bg-success">Hello Bootstrap</div>
+    <hr>
