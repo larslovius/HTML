@@ -1,0 +1,21 @@
+.focus {
+    outline: 2px solid teal;
+  }
+  header {
+    font-size: 50px;
+    text-align: center;
+    color: red;
+  }
+  footer {
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+  }
+  p {
+    text-align: center;
+    color: green;
+  }
+  form {
+    text-align: center;
+  }
+  
